@@ -1,2 +1,3 @@
 #!/bin/bash
-sudo add-apt-repository ppa:timescale/timescaledb-ppa
+add-apt-repository ppa:timescale/timescaledb-ppa
+apt update
